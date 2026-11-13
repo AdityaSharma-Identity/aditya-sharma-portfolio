@@ -10,3 +10,5 @@ This repository is configured for GitHub Pages through a workflow in `.github/wo
 - Education and Professional Experience sections are intentionally omitted.
 - Phone number is intentionally omitted. Email and LinkedIn links remain.
 - No build command or package installation is required.
+
+Deployment is automated from the main branch.
